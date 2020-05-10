@@ -44,6 +44,9 @@ body {
   background-color: var(--accent-text-color);
 }
 
+.site-nav .link.current {
+  color: var(--accent-text-color);
+}
 /* Главная страница */
 .logo {
   color: var(--title-text-color);
