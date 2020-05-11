@@ -57,7 +57,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03px;
 }
 .logo .accent {
@@ -72,7 +72,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02px;
 }
 .site-nav .contact {
@@ -82,7 +82,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02px;
 }
 /* Герой */
@@ -94,7 +94,7 @@ body {
   text-transform: uppercase;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06px;
   text-transform: uppercase;
@@ -107,7 +107,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.88;
   letter-spacing: 0.06px;
 }
 
@@ -116,7 +116,7 @@ body {
   color: var(--title-text-color);
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03px;
 }
@@ -124,7 +124,7 @@ body {
   color: var(--title-text-color);
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03px;
   text-transform: uppercase;
 }
@@ -144,7 +144,7 @@ body {
 }
 .footer .logo {
   font-size: 22px;
-  line-height: 26px;
+  line-height: 1.18;
   color: #ffffff;
 }
 .address {
@@ -160,14 +160,14 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03px;
   color: rgba(255, 255, 255, 0.6);
 }
 .footer-title {
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03px;
   text-transform: uppercase;
 }
@@ -175,6 +175,6 @@ body {
   font-weight: normal;
   font-size: 12px;
   text-align: center;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.03px;
   color: rgba(255, 255, 255, 0.4);
 }

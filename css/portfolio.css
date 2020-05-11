@@ -48,7 +48,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03px;
 }
 .logo .accent {
@@ -63,7 +63,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.4px;
   letter-spacing: 0.02px;
 }
 .site-nav .contact {
@@ -73,7 +73,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.4px;
   letter-spacing: 0.02px;
 }
 
@@ -83,9 +83,9 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.63;
   text-align: center;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.03px;
   color: var(--title-text-color);
   background-color: var(--primary-bg-button-color);
   border: none;
@@ -95,21 +95,21 @@ body {
 .works .title-text {
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 1.88;
   letter-spacing: 0.06px;
   color: var(--title-text-color);
 }
 .works .text {
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.88;
   letter-spacing: 0.03px;
   color: var(--primary-text-color);
 }
 .works .hf-text {
   font-weight: normal;
   font-size: 18px;
-  line-height: 28px;
+  line-height: 1.56;
   letter-spacing: 0.03px;
   color: var(--primary-white-color);
   background-color: var(--accent-text-color);
@@ -122,7 +122,7 @@ body {
 }
 .footer .logo {
   font-size: 22px;
-  line-height: 26px;
+  line-height: 1.18;
   color: #ffffff;
 }
 .address {
@@ -138,14 +138,14 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03px;
   color: rgba(255, 255, 255, 0.6);
 }
 .footer-title {
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03px;
   text-transform: uppercase;
 }
@@ -153,6 +153,6 @@ body {
   font-weight: normal;
   font-size: 12px;
   text-align: center;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.03px;
   color: rgba(255, 255, 255, 0.4);
 }
